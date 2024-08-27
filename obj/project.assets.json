@@ -2577,11 +2577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\CreateWexBIMApi.csproj",
+      "projectUniqueName": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi.csproj",
       "projectName": "CreateWexBIMApi",
-      "projectPath": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\CreateWexBIMApi.csproj",
+      "projectPath": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi.csproj",
       "packagesPath": "C:\\Users\\Planet\\.nuget\\packages\\",
-      "outputPath": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\obj\\",
+      "outputPath": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Planet\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qOkLc1H/gR6Y/13d/Wf+jFVdlQ9VsFVqDKOm8M2jX9E=",
+  "Hash": "JkXgE8jicBdHiS7E5mytYwTYnTXXTKUeGTSodJv8x7M=",
   "Source": "CreateWexBIMApi",
   "BasePath": "_content/CreateWexBIMApi",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "CreateWexBIMApi\\wwwroot",
       "Source": "CreateWexBIMApi",
-      "ContentRoot": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\wwwroot\\",
+      "ContentRoot": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\wwwroot\\",
       "BasePath": "_content/CreateWexBIMApi",
       "Pattern": "**"
     }

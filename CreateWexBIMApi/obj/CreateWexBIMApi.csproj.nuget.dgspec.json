@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\CreateWexBIMApi.csproj": {}
+  },
+  "projects": {
+    "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\CreateWexBIMApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\CreateWexBIMApi.csproj",
+        "projectName": "CreateWexBIMApi",
+        "projectPath": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\CreateWexBIMApi.csproj",
+        "packagesPath": "C:\\Users\\Planet\\.nuget\\packages\\",
+        "outputPath": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Planet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Xbim.Essentials": {
+              "target": "Package",
+              "version": "[6.0.445, )"
+            },
+            "Xbim.Geometry": {
+              "target": "Package",
+              "version": "[5.1.437, )"
+            },
+            "Xbim.Ifc": {
+              "target": "Package",
+              "version": "[6.0.445, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

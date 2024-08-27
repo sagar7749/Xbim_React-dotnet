@@ -1,0 +1,7 @@
+@CreateWexBIMApi_HostAddress = http://localhost:5084
+# @CreateWexBIMApi_HostAddress = http://127.0.0.1:5173
+
+GET {{CreateWexBIMApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

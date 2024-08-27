@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qOkLc1H/gR6Y/13d/Wf+jFVdlQ9VsFVqDKOm8M2jX9E=",
+  "Source": "CreateWexBIMApi",
+  "BasePath": "_content/CreateWexBIMApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CreateWexBIMApi\\wwwroot",
+      "Source": "CreateWexBIMApi",
+      "ContentRoot": "C:\\SAGAR-DIGNIZANT\\XbimFullExample\\Xbim_React-dotnet\\CreateWexBIMApi\\wwwroot\\",
+      "BasePath": "_content/CreateWexBIMApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
